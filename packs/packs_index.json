@@ -1,0 +1,9 @@
+[
+  {
+    "id": "Sobrelauncher",
+    "name": "Sobrelauncher Modpack",
+    "version": "1.0",
+    "downloadUrl": "https://github.com/francis2090/LauncherMod/releases/download/v1.0/modpack.zip",
+    "manifestUrl": "https://raw.githubusercontent.com/francis2090/LauncherMod/main/packs/manifests/Sobrelauncher-manifest.json"
+  }
+]
